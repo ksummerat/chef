@@ -1,0 +1,17 @@
+{
+  "bild_basis": "https://d8j0ntlcm91z4.cloudfront.net/user_38GeaeVYAPeBCIO7QrAhuYsRP9z/",
+  "audio_basis": "https://platform.r2.fish.audio/tasks/2026-08-30/",
+  "stimme": {"id": "90042f762dbf49baa2e7776d011eee6b", "titel": "Vorlesen Stimlagen", "sprache": "de"},
+  "shots": [
+    {"id": 0, "bild": "hf_20260830_082433_c5bb3c93-71b5-4351-b403-bbf9b986fd26.png", "audio": "ec6e7a6bb62c4d8b8a900ec9ac4b8fb2.mp3"},
+    {"id": 1, "bild": "hf_20260830_082433_cde60d6a-da39-4f42-b634-5498aeb7e77f.png", "audio": "028c2a45155848bbaa1f0dd1e64fe0f9.mp3"},
+    {"id": 2, "bild": "hf_20260830_082433_e836f8e1-ef35-4d62-b3d9-80c50f67f32d.png", "audio": "5a863fb03e3f4f5faf1a4f716d55c8f2.mp3"},
+    {"id": 3, "bild": "hf_20260830_082458_f2e6a937-b509-4789-b10c-8e92987a743d.png", "audio": "b13d16602407473a80470698cd96110e.mp3"},
+    {"id": 4, "bild": "hf_20260830_082433_4bc50a8e-b9b2-4d95-81cf-8bf03527ac52.png", "audio": "fb5171638d3f4fed822f42e03d8f9459.mp3"},
+    {"id": 5, "bild": "hf_20260830_082458_91d1a369-385e-4ed4-982c-8e668b6e64c8.png", "audio": "c8493f252b73421cbcdc3eea65f2ea1c.mp3"},
+    {"id": 6, "bild": "hf_20260830_082458_7222e7a4-4d80-4ebf-877e-2b12cc8b70d1.png", "audio": "86ec98fba779434a8ceee2f5b0522d55.mp3"},
+    {"id": 7, "bild": "hf_20260830_082433_5750fc26-d1ee-4dc7-8925-241f4df8b228.png", "audio": "78f7db6a0afe4e309651f2f4c56ae5d1.mp3"},
+    {"id": 8, "bild": "hf_20260830_082433_0e02e94b-7287-40be-958c-8960335fa047.png", "audio": "c05323e27bca49e895a4bd0c70a36b9d.mp3"},
+    {"id": 9, "bild": "hf_20260830_082434_44448f97-f900-4c0b-90ca-80f92b61cc90.png", "audio": "53339dd1891f4d578a9c4fad41de75c6.mp3"}
+  ]
+}

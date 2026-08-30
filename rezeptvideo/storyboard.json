@@ -1,0 +1,79 @@
+{
+  "titel": "Schokoladen-Bananen-Crepes",
+  "format": "9:16",
+  "aufloesung": "1k",
+  "bildmodell": "recraft_v4_1",
+  "stil": "photorealistic food photography, 50mm lens, soft natural window light from the left, light marble countertop, warm neutral palette, shallow depth of field, crisp appetizing detail, no text, no watermark, no people faces, vertical composition",
+  "shots": [
+    {
+      "id": 0,
+      "overlay": "SCHOKOLADEN-BANANEN-CREPES",
+      "unterzeile": "4 Portionen · 25 Min · Einfach",
+      "sprecher": "Schokoladen-Bananen-Crêpes. Für vier Portionen brauchst du: 250 Gramm Mehl, 500 Milliliter Milch, drei Eier, zwei Esslöffel Zucker, eine Prise Salz, 50 Gramm Butter, 200 Gramm Zartbitterschokolade, 100 Milliliter Sahne und vier reife Bananen.",
+      "prompt": "Overhead flat lay of all ingredients for chocolate banana crepes neatly arranged on a light marble countertop: a bowl of white flour, a glass jug of milk, three brown eggs, a small bowl of sugar, a pinch of salt in a tiny dish, a block of butter, a bar of dark chocolate broken into pieces, a small jug of cream, four ripe yellow bananas, a dusting of powdered sugar in a sieve"
+    },
+    {
+      "id": 1,
+      "overlay": "1 · Trockene Zutaten mischen",
+      "unterzeile": "250 g Mehl · 2 EL Zucker · 1 Prise Salz",
+      "sprecher": "Schritt eins: Mehl, Zucker und Salz in einer großen Schüssel vermischen.",
+      "prompt": "Close-up of a large white ceramic mixing bowl filled with white flour and sugar being whisked together with a stainless steel balloon whisk, a fine cloud of flour dust in the air, light marble countertop"
+    },
+    {
+      "id": 2,
+      "overlay": "2 · Eier & Milch einrühren",
+      "unterzeile": "3 Eier · 500 ml Milch · glatt rühren",
+      "sprecher": "Schritt zwei: Eier und Milch nach und nach einrühren, bis ein glatter Teig ohne Klümpchen entsteht.",
+      "prompt": "Close-up of milk being poured from a glass jug into a bowl of flour with cracked eggs, a whisk mixing it into a smooth pale yellow crepe batter, glossy and lump-free, light marble countertop"
+    },
+    {
+      "id": 3,
+      "overlay": "3 · Butter dazu · 30 Min ruhen",
+      "unterzeile": "50 g geschmolzene Butter",
+      "sprecher": "Schritt drei: Die geschmolzene Butter unterrühren und den Teig 30 Minuten ruhen lassen.",
+      "prompt": "Close-up of golden melted butter being drizzled from a small saucepan into a bowl of smooth pale crepe batter, swirling ribbons of butter on the surface, whisk resting in the bowl, light marble countertop"
+    },
+    {
+      "id": 4,
+      "overlay": "4 · Schokosauce schmelzen",
+      "unterzeile": "200 g Zartbitter · 100 ml Sahne",
+      "sprecher": "Schritt vier: Schokolade grob hacken, mit der Sahne schmelzen und zu einer glänzenden Sauce rühren.",
+      "prompt": "Close-up of chopped dark chocolate melting with cream in a small saucepan, a spatula stirring it into a glossy smooth chocolate ganache sauce, rich dark glossy surface catching the light, light marble countertop"
+    },
+    {
+      "id": 5,
+      "overlay": "5 · Bananen schneiden",
+      "unterzeile": "4 reife Bananen, dünne Scheiben",
+      "sprecher": "Schritt fünf: Die Bananen schälen und in dünne Scheiben schneiden.",
+      "prompt": "Close-up of ripe bananas being sliced into thin even rounds with a chef knife on a wooden cutting board, neat rows of pale yellow banana slices, light marble countertop"
+    },
+    {
+      "id": 6,
+      "overlay": "6 · Teig dünn ausbacken",
+      "unterzeile": "Eine dünne Kelle in die heiße Pfanne",
+      "sprecher": "Schritt sechs: Etwas Butter in einer heißen Pfanne zerlassen, eine dünne Kelle Teig einfüllen und gleichmäßig verteilen.",
+      "prompt": "Close-up of crepe batter being poured from a ladle into a hot black crepe pan with sizzling melted butter, the batter spreading into a thin even circle, faint steam rising, stovetop"
+    },
+    {
+      "id": 7,
+      "overlay": "7 · Wenden · goldbraun",
+      "unterzeile": "ca. 2 Min pro Seite",
+      "sprecher": "Schritt sieben: Den Crêpe etwa zwei Minuten backen, bis der Rand sich löst, dann wenden und goldbraun fertig backen.",
+      "prompt": "Close-up of a thin crepe being flipped in a black pan with a wooden spatula, revealing a golden brown lacy speckled underside, faint steam, stovetop"
+    },
+    {
+      "id": 8,
+      "overlay": "8 · Füllen & belegen",
+      "unterzeile": "Schokosauce + Bananenscheiben",
+      "sprecher": "Schritt acht: Den warmen Crêpe mit Schokoladensauce bestreichen und mit Bananenscheiben belegen.",
+      "prompt": "Close-up of a warm golden crepe lying flat on a white plate, being spread with glossy dark chocolate sauce using a spoon, thin banana slices arranged over one half, light marble countertop"
+    },
+    {
+      "id": 9,
+      "overlay": "9 · Falten & servieren",
+      "unterzeile": "Mit Puderzucker bestäuben",
+      "sprecher": "Schritt neun: Zusammenklappen, mit Puderzucker bestäuben und sofort servieren. Guten Appetit!",
+      "prompt": "Beautifully plated folded chocolate banana crepes on a white ceramic plate, dark chocolate sauce drizzled over the top, fresh banana slices, a dusting of powdered sugar falling through the light, a mint leaf, restaurant dessert presentation, light marble countertop"
+    }
+  ]
+}
