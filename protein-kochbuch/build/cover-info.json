@@ -6,9 +6,9 @@
   "hoehe_zoll": 10.25,
   "coverbild": "bilder/cover.jpg",
   "aufloesung": {
-    "w": 848,
-    "h": 1264,
-    "dpi_x": 119,
-    "dpi_y": 123
+    "w": 3392,
+    "h": 5056,
+    "dpi_x": 476,
+    "dpi_y": 493
   }
 }
