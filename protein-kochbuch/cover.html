@@ -15,7 +15,8 @@ body { font-family: 'Inter', sans-serif; color: #1d1d1b; }
 .spine { position: absolute; left: 7.125in; top: 0; width: 0.2702in; height: 10.25in; background: #000; }
 .spine .txt { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%) rotate(90deg); transform-origin: center; white-space: nowrap; color: #fff; font-family: 'Caladea', serif; font-weight: 700; font-size: 8.8pt; letter-spacing: .06em; }
 .front { position: absolute; left: 7.3952in; top: 0; width: 7.125in; height: 10.25in; overflow: hidden; }
-.front .ci { width: 100%; height: 100%; object-fit: cover; display: block; }
+.front .cbg { position: absolute; inset: -0.3in; background-size: cover; background-position: center; filter: blur(14px) brightness(.75); }
+.front .ci { position: absolute; left: 4%; top: 2.4%; width: 92%; height: 95.2%; object-fit: contain; display: block; box-shadow: 0 0 0.12in rgba(0,0,0,.35); }
 .ph { width: 100%; height: 100%; background: linear-gradient(165deg, #3b7249 0%, #1f3f29 55%, #0f2417 100%); position: relative; }
 .ph::before { content: ''; position: absolute; inset: 0; background: radial-gradient(circle at 70% 20%, rgba(201,164,59,.45), transparent 50%); }
 .ph-in { position: absolute; left: 0.6in; right: 0.6in; top: 1.2in; bottom: 0.9in; display: flex; flex-direction: column; justify-content: space-between; text-align: center; color: #fff; }
@@ -43,5 +44,5 @@ body { font-family: 'Inter', sans-serif; color: #1d1d1b; }
   <p>Kurt Summer hat in klassischen Küchen gelernt und danach viele Jahre auf Kreuzfahrtschiffen und Privatjachten gekocht, zuletzt als Executive Chef für mehrere tausend Gäste täglich. Heute lebt er wieder in der Steiermark, schreibt Kochbücher und gibt weiter, was er in über zwanzig Jahren Profiküche gelernt hat: ehrlich kochen, gut essen, jeden Tag.</p>
 </div></div><div class="barcode"></div></div>
 <div class="spine"><div class="txt">PROTEINREICH KOCHEN WIE EIN PROFI &nbsp;·&nbsp; KURT SUMMER</div></div>
-<div class="front"><div class="ph"><div class="ph-in"><div class="pt">PROTEINREICH KOCHEN<br><span>WIE EIN PROFI</span></div><div class="ps">Eiweißreiche Rezepte für Alltag, Sport &amp; Familie – ganz ohne Proteinpulver</div><div class="pa">KURT SUMMER</div></div></div></div>
+<div class="front"><div class="cbg" style="background-image:url('bilder/cover.jpg')"></div><img class="ci" src="bilder/cover.jpg"></div>
 </div></body></html>

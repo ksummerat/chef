@@ -37,8 +37,9 @@ const klappentext = `
   <p>Kurt Summer hat in klassischen Küchen gelernt und danach viele Jahre auf Kreuzfahrtschiffen und Privatjachten gekocht, zuletzt als Executive Chef für mehrere tausend Gäste täglich. Heute lebt er wieder in der Steiermark, schreibt Kochbücher und gibt weiter, was er in über zwanzig Jahren Profiküche gelernt hat: ehrlich kochen, gut essen, jeden Tag.</p>
 </div>`;
 
+// Coverbild: scharf mit ~92 % Größe (alle Texte sicher ≥ 0,25" innerhalb der Schnittkante), Rand mit weichgezeichneter Kopie gefüllt
 const front = coverImg
-  ? `<img class="ci" src="${coverImg}">`
+  ? `<div class="cbg" style="background-image:url('${coverImg}')"></div><img class="ci" src="${coverImg}">`
   : `<div class="ph"><div class="ph-in"><div class="pt">${esc(T.titel).toUpperCase().replace(' WIE EIN PROFI', '<br><span>WIE EIN PROFI</span>')}</div><div class="ps">${esc(T.untertitel)}</div><div class="pa">KURT SUMMER</div></div></div>`;
 
 const html = `<!doctype html><html lang="de"><head><meta charset="utf-8"><style>
@@ -58,7 +59,8 @@ body { font-family: 'Inter', sans-serif; color: #1d1d1b; }
 .spine { position: absolute; left: ${BLEED + TRIM_W}in; top: 0; width: ${SPINE}in; height: ${H}in; background: #000; }
 .spine .txt { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%) rotate(90deg); transform-origin: center; white-space: nowrap; color: #fff; font-family: 'Caladea', serif; font-weight: 700; font-size: ${Math.min(13, Math.max(7, SPINE * 72 * 0.45)).toFixed(1)}pt; letter-spacing: .06em; }
 .front { position: absolute; left: ${BLEED + TRIM_W + SPINE}in; top: 0; width: ${TRIM_W + BLEED}in; height: ${H}in; overflow: hidden; }
-.front .ci { width: 100%; height: 100%; object-fit: cover; display: block; }
+.front .cbg { position: absolute; inset: -0.3in; background-size: cover; background-position: center; filter: blur(14px) brightness(.75); }
+.front .ci { position: absolute; left: 4%; top: 2.4%; width: 92%; height: 95.2%; object-fit: contain; display: block; box-shadow: 0 0 0.12in rgba(0,0,0,.35); }
 .ph { width: 100%; height: 100%; background: linear-gradient(165deg, #3b7249 0%, #1f3f29 55%, #0f2417 100%); position: relative; }
 .ph::before { content: ''; position: absolute; inset: 0; background: radial-gradient(circle at 70% 20%, rgba(201,164,59,.45), transparent 50%); }
 .ph-in { position: absolute; left: 0.6in; right: 0.6in; top: 1.2in; bottom: 0.9in; display: flex; flex-direction: column; justify-content: space-between; text-align: center; color: #fff; }
