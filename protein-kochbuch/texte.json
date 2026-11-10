@@ -1,0 +1,58 @@
+{
+  "titel": "Proteinreich kochen wie ein Profi",
+  "untertitel": "Eiweißreiche Rezepte für Alltag, Sport & Familie – ganz ohne Proteinpulver",
+  "autor": "Kurt Summer",
+  "auflage": "Auflage 1",
+  "monat": "November 2026",
+  "jahr": "2026",
+  "isbn": "ISBN: wird von KDP vergeben – bitte hier eintragen",
+  "imprint": "Independently published",
+  "kapitel": [
+    { "k": "fruehstueck", "nr": "02", "name": "Frühstück & Eier", "file": 1 },
+    { "k": "snacks", "nr": "03", "name": "Snacks, Dips & Aufstriche", "file": 2 },
+    { "k": "suppen", "nr": "04", "name": "Suppen & Eintöpfe", "file": 3 },
+    { "k": "salate", "nr": "05", "name": "Salate & Bowls", "file": 4 },
+    { "k": "gefluegel", "nr": "06", "name": "Geflügel", "file": 5 },
+    { "k": "fleisch", "nr": "07", "name": "Rind, Schwein & Lamm", "file": 6 },
+    { "k": "fisch", "nr": "08", "name": "Fisch & Meeresfrüchte", "file": 7 },
+    { "k": "pflanzlich", "nr": "09", "name": "Hülsenfrüchte, Tofu & Co.", "file": 8 },
+    { "k": "ofen", "nr": "10", "name": "Aufläufe, Pfannen & Meal-Prep", "file": 9 },
+    { "k": "suess", "nr": "11", "name": "Desserts & Süßes mit Protein", "file": 10 }
+  ],
+  "ueber_mich": [
+    "Ich bin Kurt Summer, gelernter Koch aus der schönen Steiermark in Österreich. Meine Ausbildung habe ich in der klassischen Küche gemacht, dort, wo man noch lernt, eine Sauce zu ziehen, ein Stück Fleisch richtig zu braten und aus wenigen guten Zutaten etwas Ehrliches auf den Teller zu bringen.",
+    "Danach hat mich das Meer gerufen. Viele Jahre habe ich auf Kreuzfahrtschiffen und privaten Jachten gekocht, zuletzt als Executive Chef, verantwortlich für Küchen, in denen täglich mehrere tausend Gäste versorgt werden. An Bord lernt man zwei Dinge gründlich: Man lernt, wie Gäste aus aller Welt essen wollen, und man lernt, wie man große Mengen so kocht, dass jeder Teller trotzdem schmeckt. Beides steckt in diesem Buch.",
+    "Warum ein Protein-Kochbuch? Weil ich in den letzten Jahren immer öfter gefragt wurde, wie man eiweißreich isst, ohne zum Pulver zu greifen. Die Antwort ist einfach: mit richtigem Essen. Fleisch, Fisch, Eier, Hülsenfrüchte, Milchprodukte, gut zubereitet, ehrlich gewürzt. Genau das habe ich als Koch jeden Tag gemacht, lange bevor jemand „High Protein“ auf eine Packung gedruckt hat.",
+    "Heute lebe ich wieder in der Steiermark. Ich schreibe Kochbücher, entwickle Rezepte und gebe weiter, was ich in über zwanzig Jahren in Profiküchen gelernt habe. Mein Ziel ist immer dasselbe: Dass du dich an den Herd stellst, ohne Angst, und am Ende etwas isst, das dir guttut und schmeckt.",
+    "Du wirst in diesem Buch keine Hochglanzfotos von jedem Gericht finden. Das ist Absicht. Jedes Foto, das in ein Buch gedruckt wird, macht es teurer, und ich möchte, dass sich dieses Buch jeder leisten kann. Die Rezepte sind so geschrieben, dass du sie auch ohne Bild nachkochen kannst, Schritt für Schritt, mit Zeiten, Temperaturen und den kleinen Kniffen, die in der Profiküche den Unterschied machen. Die Bilder zu Beginn jedes Kapitels sollen dir Lust machen, der Rest passiert auf deinem Teller."
+  ],
+  "einleitung": {
+    "warum": [
+      "Eiweiß ist der Baustein, über den gerade alle reden. Zu Recht: Protein sättigt länger als Kohlenhydrate oder Fett, es erhält die Muskulatur, wenn du abnimmst oder älter wirst, und es hilft dem Körper, sich nach Sport, Krankheit oder einem stressigen Tag zu erholen. Was mich an der ganzen Diskussion stört, ist nur, wie sie geführt wird: mit Pulvern, Riegeln und Shakes, die nach Chemie schmecken und die niemand freiwillig zum Abendessen isst.",
+      "Dieses Buch geht einen anderen Weg. Es zeigt dir, wie du mit ganz normalen Lebensmitteln auf eine ordentliche Eiweißmenge kommst, und zwar so, dass du dich darauf freust. Ein saftiges Hendl aus dem Ofen, eine Linsensuppe, die eine Mahlzeit ist, ein Skyr-Cheesecake, der am Sonntag auf dem Tisch stehen darf. Jedes Rezept in diesem Buch liefert eine klare, nachgerechnete Eiweißmenge pro Portion. Hauptgerichte bringen mindestens 25 Gramm, Frühstück, Snacks und Desserts mindestens 15 Gramm. Das sind Werte, mit denen du im Alltag arbeiten kannst.",
+      "Ich habe in meinem Berufsleben für Sportler, für Senioren, für Familien mit Kindern und für Gäste gekocht, die einfach nur gut essen wollten. Alle hatten dasselbe Problem: Eiweißreich essen klingt nach Verzicht. Es ist das Gegenteil. Richtig gemacht ist es die Küche, die am meisten sättigt und am längsten gut tut. Und genau das möchte ich dir hier beibringen, mit dem Handwerk aus der Profiküche, aber mit den Zutaten aus dem Supermarkt um die Ecke."
+    ],
+    "benutzen": [
+      "Alle Mengen in diesem Buch sind in Gramm, Millilitern, Esslöffeln und Teelöffeln angegeben. Ein Esslöffel entspricht etwa 15 ml, ein Teelöffel etwa 5 ml. Backofen-Temperaturen sind als Umluft angegeben. Hast du nur Ober- und Unterhitze, stell den Ofen etwa 20 °C höher ein. Formgrößen und Pfannendurchmesser stehen in Zentimetern.",
+      "Jedes Rezept nennt Portionen, Zeitaufwand, Eiweiß und Kalorien pro Portion. Die Nährwerte sind sorgfältig geschätzt, aber keine Laborwerte. Je nach Marke, Fettstufe und Größe deiner Zutaten können sie ein paar Gramm nach oben oder unten abweichen. Für die Planung deines Tages reichen sie völlig aus.",
+      "Zu jedem Rezept findest du einen kurzen Text zur Herkunft des Gerichts und am Ende einen Tipp vom Profi. Dort stehen die Dinge, die dir ein Kochkurs beibringen würde: wie du Fleisch saftig hältst, warum die Pfanne heiß sein muss, wie du ein Gericht einen Tag vorher vorbereitest. Lies den Tipp, bevor du anfängst, nicht erst, wenn etwas schiefgegangen ist.",
+      "Schärfe ist Geschmackssache. Wo Chili vorkommt, ist die Menge für eine mittlere Schärfe gedacht. Streich die Kerne heraus oder halbiere die Menge, wenn Kinder mitessen. Zum Ersetzen von Zutaten: Skyr, Magerquark und griechischer Joghurt sind in den meisten Rezepten gegeneinander austauschbar. Hähnchen und Pute auch. Wer keinen Fisch mag, nimmt bei vielen Rezepten Hähnchenbrust, wer vegetarisch isst, greift zu Tofu, Tempeh oder Hülsenfrüchten. Die Kapitel sind so gebaut, dass du immer eine Alternative findest."
+    ],
+    "motivation": [
+      "Ich möchte dir eines mit auf den Weg geben: Du musst nichts perfekt machen. Wenn du das Hendl einmal zu lange im Ofen lässt, ist es trotzdem ein Abendessen. Wenn die Linsensuppe zu dick wird, kommt ein Schuss Wasser dazu. Kochen ist kein Test, es ist Übung. Jedes Rezept, das du nachkochst, macht dich besser, und das nächste geht leichter von der Hand.",
+      "Fang mit den Rezepten an, die dich anlachen. Koch sie zweimal, dann gehören sie dir. Danach wirst du anfangen, Dinge zu ändern, ein Gewürz zu tauschen, eine Beilage zu wechseln. Genau dann hast du verstanden, worum es in diesem Buch geht: nicht ums Nachkochen, sondern ums Kochenkönnen.",
+      "Eiweißreich zu essen ist keine Diät und kein Programm. Es ist eine Art zu kochen, die dich satt macht, dir Kraft gibt und die du ein Leben lang durchhalten kannst, weil sie schmeckt. Also: Pfanne raus, Ofen an, und los geht's. Ich freue mich, dass du dabei bist."
+    ]
+  },
+  "abschluss": [
+    "Du hast jetzt 100 Rezepte in der Hand, die eines gemeinsam haben: Sie machen satt, sie liefern Eiweiß aus echten Lebensmitteln und sie funktionieren im Alltag. Keines davon braucht ein Pulver, eine Spezialzutat oder Geräte, die du nicht hast.",
+    "Wenn du dieses Buch einmal durchgekocht hast, wirst du merken, dass sich etwas verändert hat. Du schaust anders auf deinen Teller. Du weißt, was ein Stück Fleisch, eine Handvoll Linsen oder ein Becher Skyr für dich tun. Und du weißt, wie du daraus etwas machst, das du gern isst. Das ist mehr wert als jede Tabelle.",
+    "Ich wünsche dir viel Freude am Herd und gute Gäste an deinem Tisch. Bleib neugierig, probier aus, und vergiss nicht: Der beste Koch ist der, der jeden Tag kocht.",
+    "Dein Kurt"
+  ],
+  "danksagung": [
+    "Mein Dank gilt allen Köchinnen und Köchen, mit denen ich über die Jahre in Küchen auf der ganzen Welt gestanden bin. Von jedem Einzelnen habe ich etwas gelernt, oft mehr, als ihnen bewusst war.",
+    "Danke an meine Familie, die unzählige Testportionen gegessen und ehrlich gesagt hat, wenn etwas noch nicht gepasst hat. Ohne diese Ehrlichkeit wäre dieses Buch nur halb so gut.",
+    "Und danke an dich, dass du dieses Buch in die Hand genommen hast. Jedes Rezept, das du nachkochst, gibt diesem Buch seinen Sinn."
+  ]
+}
