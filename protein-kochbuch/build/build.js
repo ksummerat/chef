@@ -67,7 +67,7 @@ p { margin: 0 0 7pt 0; text-align: justify; hyphens: auto; -webkit-hyphens: auto
 .sec p { font-size: 9.4pt; line-height: 1.45; }
 .um { overflow: hidden; }
 .um .foto { float: left; width: 2.05in; height: 2.6in; margin: 4pt 14pt 6pt 0; background: #e9ebe6; border: 1px solid #cfd3cb; display: flex; align-items: center; justify-content: center; color: #8a8a86; font-size: 8pt; text-align: center; padding: 8px; }
-.um .foto img { width: 100%; height: 100%; object-fit: cover; }
+.um .foto img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 22%; }
 .sig { font-family: 'Caladea', serif; font-size: 12pt; color: #2f5d3a; }
 .cp { font-size: 8.8pt; color: #333; padding-top: 5.2in; }
 .cp p { text-align: left; margin-bottom: 5pt; }
